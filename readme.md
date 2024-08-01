@@ -6,7 +6,7 @@ Tech Stack: React, RESTful APIs
 
 Development Timeframe: 10 days
 
-dESCRIPTION:
+DESCRIPTION:
 
 Developed a YouTube clone independently, focusing on user-friendly design and functionality.
 Ensured the application was fully responsive, providing a seamless experience across various devices.
